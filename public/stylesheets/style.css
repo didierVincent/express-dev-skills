@@ -4,5 +4,14 @@ body {
 }
 
 a {
-  color: #00B7FF;
+  color: #51ff00;
+}
+
+* {
+  background-color: rgba(0, 0, 0, 0.95);
+  color: white;
+}
+
+g {
+  color: #51ff00;
 }
